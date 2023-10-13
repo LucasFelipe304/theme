@@ -1,0 +1,35 @@
+{
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 18,
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "python.defaultInterpreterPath": "python",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "Monokai",
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "editor.background": "#000",
+            "editorGutter.background": "#111",
+            "sideBar.background": "#000",
+            "activityBar.background": "#111",
+            "statusBar.background": "#111",
+            "editor.selectionBackground": "#222",
+            "editor.lineHighlightBackground": "#333",
+            "tab.activeBackground": "#111",
+            "tab.inactiveBackground": "#222"
+        }
+    },
+    "editor.semanticTokenColorCustomizations": {
+    
+    }
+}
